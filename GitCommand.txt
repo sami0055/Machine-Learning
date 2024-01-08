@@ -17,4 +17,4 @@ git pull -- git fetch plus merge
 
 Note By: Md.Samiul Alim
 Dept: Computer Science & Engineering
-North South University
+North South University(NSU)
